@@ -1,10 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 int main()
-{
-int n,i,p,q=0;
+{int n,i,p,q=0;
 scanf("%d %d",&n,&p);
-for(i=0;i<p;i++)
+for(i=1;i<=p;i++)
 {
 	q=q+i;
 }
