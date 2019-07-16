@@ -1,3 +1,3 @@
 sentence=input()
-sen1=[::-1]
+sen1=sentence[::-1]
 print(sen1)
