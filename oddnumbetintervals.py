@@ -1,5 +1,6 @@
-a=int(input())
-b=int(input())
+a,b=input().split()
+b=int(b)
+a=int(a)
 for i in range(a,b):
     if i%2 != 0:
-        print(i)
+        print(i,end=' ')
