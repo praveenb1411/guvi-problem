@@ -1,2 +1,3 @@
-s=input()
-print(s[::-1])
+sentence=input()
+sen1=[::-1]
+print(sen1)
