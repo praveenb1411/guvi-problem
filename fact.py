@@ -1,3 +1,3 @@
 import math
-factnumber=int(input())
-print(math.factorial(factnumber))
+facto=int(input())
+print(math.factorial(facto))
